@@ -39,4 +39,11 @@
 
 ## wakaTime
 <!--START_SECTION:waka-->
+```text
+Other        14 hrs 33 mins  ██████████████████░░░░░░░   72.66 % 
+Java         2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+SQL          2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+XML          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+```
 <!--END_SECTION:waka-->
