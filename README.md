@@ -2,7 +2,6 @@
 
 # liu bin
 
----
 ![](https://komarev.com/ghpvc/?username=liubin95)
 ![](https://img.shields.io/static/v1?label=wechat&message=Mr-liu19951119&color=33333&logo=wechat)
 ![](https://img.shields.io/static/v1?label=qq&message=1324576393@qq.com&color=33333&logo=tencentqq)
@@ -10,8 +9,6 @@
 ![](https://img.shields.io/static/v1?label=outlook&message=liu_bin4835@outlook.com&color=33333&logo=microsoftoutlook)
 
 ## Orientation 🎯
-
----
 
 ![](https://img.shields.io/badge/java-333333?logo=java)
 ![](https://img.shields.io/badge/spring-333333?logo=spring)
@@ -36,8 +33,6 @@
 ![](https://img.shields.io/badge/presto-333333?logo=presto)
 
 ## Analysis 👇
-
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liubin95)](https://github.com/anuraghazra/github-readme-stats)
 </div>
