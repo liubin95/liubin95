@@ -40,10 +40,6 @@
 ## wakaTime
 <!--START_SECTION:waka-->
 ```text
-SQL       18 mins         █████████▓░░░░░░░░░░░░░░░   38.39 % 
-Bash      6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-JSON      5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Java      5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Scratch   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
