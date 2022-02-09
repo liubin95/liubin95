@@ -40,6 +40,9 @@
 ## wakaTime
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+SQL     1 hr 47 mins    █████████████████████▓░░░   86.38 % 
+Scala   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Java    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Bash    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
