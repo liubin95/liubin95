@@ -40,12 +40,12 @@
 ## wakaTime
 <!--START_SECTION:waka-->
 ```text
-Total: 10 hrs 55 mins
+Total: 8 hrs 58 mins
 
-Java           7 hrs 49 mins   ██████████████████░░░░░░░   71.69 % 
-SQL            1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-XML            43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-HTTP Request   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Scratch        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Java           5 hrs 20 mins   ███████████████░░░░░░░░░░   59.55 % 
+SQL            1 hr 50 mins    █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+XML            43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+HTTP Request   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Scratch        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
 <!--END_SECTION:waka-->
