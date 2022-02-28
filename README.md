@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 20 February, 2022 - 26 February, 2022
+title Week: 21 February, 2022 - 27 February, 2022
  "Other" : 95562.97
  "Java" : 14667.745
  "SQL" : 10562.221
