@@ -42,10 +42,12 @@
 ```mermaid
  pie
 title Week: 22 February, 2022 - 28 February, 2022
- "Other" : 97734.268
- "Java" : 14885.936
- "SQL" : 6350.367
- "Kotlin" : 1981.796
- "XML" : 1474.009
+ "Other" : 27.13
+ "Java" : 4.13
+ "SQL" : 1.75
+ "Kotlin" : 0.55
+ "XML" : 0.4
+ "JSON" : 0.02
+ "YAML" : 0.02
 ```
 <!--END_SECTION:waka-->
