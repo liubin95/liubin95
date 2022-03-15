@@ -41,13 +41,17 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 07 March, 2022 - 13 March, 2022
- "Other" : 28.97
- "Java" : 5.93
- "SQL" : 1.32
- "XML" : 1.13
- "Kotlin" : 0.92
+title Week: 08 March, 2022 - 14 March, 2022
+ "Other" : 27.77
+ "Java" : 6.1
+ "Kotlin" : 1.87
+ "XML" : 1.42
+ "SQL" : 1.3
+ "YAML" : 0.15
+ "Properties" : 0.07
  "Markdown" : 0.03
  "HTTP Request" : 0.03
+ "GitIgnore file" : 0.02
+ "Log" : 0.02
 ```
 <!--END_SECTION:waka-->
