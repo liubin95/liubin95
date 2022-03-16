@@ -20,17 +20,15 @@
 ![](https://img.shields.io/badge/apachemaven-333333?logo=apachemaven)
 ![](https://img.shields.io/badge/vue-333333?logo=vuedotjs)
 ![](https://img.shields.io/badge/redis-333333?logo=redis)
-![](https://img.shields.io/badge/jsonwebtokens-333333?logo=jsonwebtokens)
 <br>
 ![](https://img.shields.io/badge/kafka-333333?logo=apachekafka)
 ![](https://img.shields.io/badge/mongo-333333?logo=mongodb)
-![](https://img.shields.io/badge/apachehive-333333?logo=apachehive)
-![](https://img.shields.io/badge/apachehive-333333?logo=apachespark)
+![](https://img.shields.io/badge/hive-333333?logo=apachehive)
+![](https://img.shields.io/badge/spark-333333?logo=apachespark)
 <br>
-![](https://img.shields.io/badge/apachecassandra-333333?logo=apachecassandra)
+![](https://img.shields.io/badge/cassandra-333333?logo=apachecassandra)
 ![](https://img.shields.io/badge/Neo4j-333333?logo=Neo4j)
 ![](https://img.shields.io/badge/elasticsearch-333333?logo=elasticsearch)
-![](https://img.shields.io/badge/presto-333333?logo=presto)
 
 ## Analysis 👇
 
