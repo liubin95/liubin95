@@ -51,7 +51,5 @@ title Week: 09 March, 2022 - 15 March, 2022
  "Log" : 0.12
  "Properties" : 0.07
  "HTTP Request" : 0.02
- "GitIgnore file" : 0.02
- "JSON" : 0.02
 ```
 <!--END_SECTION:waka-->
