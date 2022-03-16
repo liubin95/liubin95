@@ -42,7 +42,6 @@
 ```mermaid
  pie
 title Week: 09 March, 2022 - 15 March, 2022
- "Other" : 27.87
  "Java" : 4.17
  "Kotlin" : 3.4
  "SQL" : 1.3
