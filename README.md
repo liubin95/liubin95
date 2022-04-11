@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 03 April, 2022 - 09 April, 2022
+title Week: 04 April, 2022 - 10 April, 2022
  "SQL" : 7.08
  "Java" : 4.43
  "XML" : 1.07
