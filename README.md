@@ -46,9 +46,5 @@ title Week: 08 April, 2022 - 14 April, 2022
  "YAML" : 2.48
  "Markdown" : 1.83
  "XML" : 1.37
- "Docker" : 0.92
- "HTTP Request" : 0.45
- "JavaScript" : 0.07
- "Bash" : 0.03
 ```
 <!--END_SECTION:waka-->
