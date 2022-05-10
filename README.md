@@ -39,12 +39,12 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 02 May, 2022 - 08 May, 2022
- "Java" : 3.57
+title Week: 03 May, 2022 - 09 May, 2022
+ "Java" : 4.97
+ "SQL" : 4.38
  "Docker" : 3.35
- "SQL" : 2.1
- "XML" : 1.4
+ "XML" : 1.73
  "Markdown" : 1.37
- "HTTP Request" : 1.07
+ "HTTP Request" : 1.13
 ```
 <!--END_SECTION:waka-->
