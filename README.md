@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 05 June, 2022 - 11 June, 2022
+title Week: 06 June, 2022 - 12 June, 2022
  "YAML" : 8.33
  "Java" : 4.73
  "SQL" : 4.02
