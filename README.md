@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 09 July, 2022 - 15 July, 2022
+title Week: 10 July, 2022 - 16 July, 2022
  "SQL" : 2.72
  "Java" : 1.63
 ```
