@@ -39,11 +39,12 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 25 July, 2022 - 31 July, 2022
+title Week: 26 July, 2022 - 01 August, 2022
  "Python" : 12.0
- "YAML" : 3.13
- "Java" : 2.93
- "SQL" : 2.8
- "HTTP Request" : 1.85
+ "SQL" : 3.23
+ "Java" : 2.8
+ "HTTP Request" : 1.97
+ "PlantUML file" : 1.45
+ "YAML" : 1.42
 ```
 <!--END_SECTION:waka-->
