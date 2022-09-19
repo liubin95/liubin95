@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 11 September, 2022 - 17 September, 2022
+title Week: 12 September, 2022 - 18 September, 2022
 
 ```
 <!--END_SECTION:waka-->
