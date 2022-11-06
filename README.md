@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 29 October, 2022 - 04 November, 2022
+title Week: 30 October, 2022 - 05 November, 2022
  "SQL" : 4.77
  "Python" : 2.7
  "Markdown" : 2.15
