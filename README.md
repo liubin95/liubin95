@@ -39,10 +39,11 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 04 November, 2022 - 10 November, 2022
- "SQL" : 7.1
- "YAML" : 4.8
+title Week: 05 November, 2022 - 11 November, 2022
+ "SQL" : 6.63
+ "YAML" : 4.78
  "Docker" : 2.15
  "Kotlin" : 1.1
+ "Python" : 1.07
 ```
 <!--END_SECTION:waka-->
