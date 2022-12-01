@@ -39,8 +39,8 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 23 November, 2022 - 29 November, 2022
- "Java" : 18.9
- "XML" : 1.15
+title Week: 24 November, 2022 - 30 November, 2022
+ "Java" : 16.95
+ "XML" : 1.2
 ```
 <!--END_SECTION:waka-->
