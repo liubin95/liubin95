@@ -39,9 +39,8 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 20 December, 2022 - 26 December, 2022
- "SQL" : 0.27
- "Java" : 0.03
- "Shell Script" : 0.03
+title Week: 21 December, 2022 - 27 December, 2022
+ "Java" : 0.02
+ "YAML" : 0.02
 ```
 <!--END_SECTION:waka-->
