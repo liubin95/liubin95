@@ -39,11 +39,13 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 27 December, 2022 - 02 January, 2023
- "SQL" : 1.63
- "Markdown" : 0.48
+title Week: 28 December, 2022 - 03 January, 2023
+ "SQL" : 0.57
+ "textmate" : 0.32
  "YAML" : 0.23
+ "HTTP Request" : 0.22
  "JavaScript" : 0.2
- "Python" : 0.18
+ "Java" : 0.18
+ "GitIgnore file" : 0.1
 ```
 <!--END_SECTION:waka-->
