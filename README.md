@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 02 January, 2023 - 08 January, 2023
+title Week: 03 January, 2023 - 09 January, 2023
  "textmate" : 0.32
  "XML" : 0.32
  ".env file" : 0.27
