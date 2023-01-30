@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 22 January, 2023 - 28 January, 2023
+title Week: 23 January, 2023 - 29 January, 2023
 
 ```
 <!--END_SECTION:waka-->
