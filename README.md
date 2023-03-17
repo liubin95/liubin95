@@ -39,11 +39,10 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 09 March, 2023 - 15 March, 2023
+title Week: 10 March, 2023 - 16 March, 2023
  "Java" : 3.3
  "YAML" : 3.25
- "Markdown" : 2.53
- "Python" : 1.68
+ "Markdown" : 1.53
  "XML" : 1.12
 ```
 <!--END_SECTION:waka-->
