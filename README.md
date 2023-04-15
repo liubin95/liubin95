@@ -39,8 +39,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 07 April, 2023 - 13 April, 2023
+title Week: 08 April, 2023 - 14 April, 2023
  "Vue.js" : 2.22
- "Java" : 1.28
 ```
 <!--END_SECTION:waka-->
