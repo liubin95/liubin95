@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 17 April, 2023 - 23 April, 2023
- "Markdown" : 3.0
+title Week: 18 April, 2023 - 24 April, 2023
+ "Markdown" : 2.15
 ```
 <!--END_SECTION:waka-->
