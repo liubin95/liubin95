@@ -39,8 +39,8 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 10 July, 2023 - 16 July, 2023
- "Java" : 3.75
- "Vue.js" : 1.65
+title Week: 11 July, 2023 - 17 July, 2023
+ "Java" : 15.42
+ "Vue.js" : 3.67
 ```
 <!--END_SECTION:waka-->
