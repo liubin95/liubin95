@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 29 September, 2023 - 05 October, 2023
+title Week: 30 September, 2023 - 06 October, 2023
 
 ```
 <!--END_SECTION:waka-->
