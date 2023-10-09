@@ -39,10 +39,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 01 October, 2023 - 07 October, 2023
- "Java" : 2.3
- "HTML" : 0.38
- "HTTP Request" : 0.37
- "GDScript" : 0.33
+title Week: 02 October, 2023 - 08 October, 2023
+ "Java" : 3.03
 ```
 <!--END_SECTION:waka-->
