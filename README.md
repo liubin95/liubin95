@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 22 October, 2023 - 28 October, 2023
+title Week: 23 October, 2023 - 29 October, 2023
  "Java" : 5.63
  "XML" : 2.28
  "HTTP Request" : 1.92
