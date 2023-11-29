@@ -36,9 +36,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 21 November, 2023 - 27 November, 2023
- "Java" : 3.97
- "Jupyter" : 2.25
- "HTTP Request" : 1.9
+title Week: 22 November, 2023 - 28 November, 2023
+ "Java" : 4.43
 ```
 <!--END_SECTION:waka-->
