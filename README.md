@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 02 December, 2023 - 08 December, 2023
+title Week: 03 December, 2023 - 09 December, 2023
  "Java" : 6.73
  "XML" : 2.32
  "SQL" : 2.2
