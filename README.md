@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 26 April, 2024 - 02 May, 2024
- "YAML" : 0.23
+title Week: 27 April, 2024 - 03 May, 2024
+
 ```
 <!--END_SECTION:waka-->
