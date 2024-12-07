@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 29 November, 2024 - 05 December, 2024
+title Week: 30 November, 2024 - 06 December, 2024
 
 ```
 <!--END_SECTION:waka-->
