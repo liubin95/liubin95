@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 25 December, 2024 - 31 December, 2024
-
+title Week: 26 December, 2024 - 01 January, 2025
+ "Java" : 1.62
 ```
 <!--END_SECTION:waka-->
