@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 13 January, 2025 - 19 January, 2025
- "Markdown" : 2.72
+title Week: 14 January, 2025 - 20 January, 2025
+ "Markdown" : 2.13
 ```
 <!--END_SECTION:waka-->
