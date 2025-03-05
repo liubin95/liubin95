@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 25 February, 2025 - 03 March, 2025
+title Week: 26 February, 2025 - 04 March, 2025
 
 ```
 <!--END_SECTION:waka-->
