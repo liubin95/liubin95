@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 18 January, 2026 - 24 January, 2026
+title Week: 19 January, 2026 - 25 January, 2026
  "TypeScript" : 11.25
 ```
 <!--END_SECTION:waka-->
