@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 11 June, 2026 - 17 June, 2026
- "Python" : 12.1
+title Week: 12 June, 2026 - 18 June, 2026
+ "Python" : 12.82
 ```
 <!--END_SECTION:waka-->
