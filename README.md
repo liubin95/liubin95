@@ -31,8 +31,9 @@
 <!--START_SECTION:waka-->
 ```mermaid
  pie
-title Week: 02 September, 2026 - 08 September, 2026
- "YAML" : 3.8
- "Python" : 1.88
+title Week: 03 September, 2026 - 09 September, 2026
+ "YAML" : 4.08
+ "TypeScript" : 2.22
+ "Python" : 2.05
 ```
 <!--END_SECTION:waka-->
